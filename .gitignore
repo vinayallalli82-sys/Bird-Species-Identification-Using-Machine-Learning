@@ -1,0 +1,15 @@
+# Python cache files
+_pycache_/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Dataset folders
+CUB_200_2011/
+data/
+dataset/
